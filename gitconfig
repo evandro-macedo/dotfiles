@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = evandroammartins@gmail.com
+	name = Evandro Macedo
